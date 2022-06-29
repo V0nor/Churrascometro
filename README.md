@@ -7,8 +7,8 @@ Desenvolvi o Churrascômetro usando javascript. Um site onde é possível calcul
 
   <p><strong>Abaixo você pode ver a interface:</strong></p>
   
-<img src="/Churrascometro (1).png" alt="Churrascômetro">
+<img src="img/Churrascometro(1).png" alt="Churrascômetro">
   
   <p><strong>Em outra imagem mostrando o resultado do cálculo:</strong></p>
   
-<img src="/Churrascometro (2).png" alt="Churrascômetro">
+<img src="img/Churrascometro (2).png" alt="Churrascômetro">
