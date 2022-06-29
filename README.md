@@ -1,4 +1,4 @@
-# Churrascometro-test
+# Churrascometro
 Desenvolvi o Churrascômetro usando javascript. Um site onde é possível calcular a quantidade de bebidas, cervejas e carne por pessoa.
 
 ## Churrascômetro-js
